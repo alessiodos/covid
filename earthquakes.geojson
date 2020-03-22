@@ -9,3 +9,4 @@
 { "type": "Feature", "properties": { "title": "Foggia", "description": "Foggia", "id": "Foggia", "mag": 212, "time": 1504833891990, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 15.5367, 41.4613, 2.609 ] } }
 ]
 }
+
