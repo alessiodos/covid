@@ -1,11 +1,11 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "title": "Lecce", "description": "Lecce", "id": "Lecce", "mag": 303, "time": 1507425650893, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 18.1613, 40.3545, 0.0 ] } },
-{ "type": "Feature", "properties": { "title": "Brindisi", "description": "Brindisi", "id": "Brindisi", "mag": 164, "time": 1507425289659, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 17.9438, 40.6411, 105.5 ] } },
-{ "type": "Feature", "properties": { "title": "Taranto", "description": "Taranto", "id": "Taranto", "mag": 126, "time": 1507424832518, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 17.2266, 40.4689, 0.0 ] } },
-{ "type": "Feature", "properties": { "title": "Bari", "description": "Bari", "id": "Bari", "mag": 616, "time": 1507423898710, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [16.8571, 41.1176, 7.64 ] } },
-{ "type": "Feature", "properties": { "title": "BAT", "description": "BAT", "id": "BAT", "mag": 111, "time": 1507423898710, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 16.3422, 41.2670, 7.64 ] } },
-{ "type": "Feature", "properties": { "title": "Foggia", "description": "Foggia", "id": "Foggia", "mag": 457, "time": 1504833891990, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 15.5367, 41.4613, 2.609 ] } }
+{ "type": "Feature", "properties": { "title": "Lecce", "description": "Lecce", "id": "Lecce", "mag": 321, "time": 1507425650893, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 18.1613, 40.3545, 0.0 ] } },
+{ "type": "Feature", "properties": { "title": "Brindisi", "description": "Brindisi", "id": "Brindisi", "mag": 191, "time": 1507425289659, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 17.9438, 40.6411, 105.5 ] } },
+{ "type": "Feature", "properties": { "title": "Taranto", "description": "Taranto", "id": "Taranto", "mag": 490, "time": 1507424832518, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 17.2266, 40.4689, 0.0 ] } },
+{ "type": "Feature", "properties": { "title": "Bari", "description": "Bari", "id": "Bari", "mag": 655, "time": 1507423898710, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [16.8571, 41.1176, 7.64 ] } },
+{ "type": "Feature", "properties": { "title": "BAT", "description": "BAT", "id": "BAT", "mag": 116, "time": 1507423898710, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 16.3422, 41.2670, 7.64 ] } },
+{ "type": "Feature", "properties": { "title": "Foggia", "description": "Foggia", "id": "Foggia", "mag": 490, "time": 1504833891990, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 15.5367, 41.4613, 2.609 ] } }
 ]
 }
